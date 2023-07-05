@@ -1,0 +1,18 @@
+{
+  "name": "rxjs-template",
+  "version": "1.0.0",
+  "description": "A template for playing with the latest stable version of RxJS",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "rxjs": "^7.5.7"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.6.1",
+    "typescript": "^5.1.6"
+  },
+  "keywords": []
+}
